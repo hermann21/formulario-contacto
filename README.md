@@ -82,4 +82,4 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 
 ## Contacto
 
-Para consultar consulta, visitar [render2web] (https://render2web.com)
+Para consultar consulta, visitar [render2web](https://render2web.com)
